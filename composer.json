@@ -1,8 +1,8 @@
 {
-    "name": "magemaven/order-comment",
+    "name": "coreser/magento-order-comment",
     "description": "Magento extension that allows customer to specify optional comment during order placing.",
     "type": "magento-module",
-    "homepage": "https://github.com/r8/magento-order-comment",
+    "homepage": "https://github.com/coreser/magento-order-comment",
     "license": "AFL-3.0",
     "authors": [
         {
